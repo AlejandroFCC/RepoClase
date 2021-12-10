@@ -5,4 +5,9 @@
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="alternativastop3.HiloSimple"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="javax.xml.transform.Templates"/>
+<fullyQualifiedTypeName name="temperaturaMaxima"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="BuscadoresDeTemperatura"/>
+<fullyQualifiedTypeName name="Package.cocineros"/>
 </qualifiedTypeNameHistroy>
