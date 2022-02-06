@@ -48,5 +48,4 @@ public class HiloCliente  extends Thread{
 			// TODO: handle exception
 		}
 	}
-
 }
